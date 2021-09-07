@@ -11,9 +11,12 @@
 
 - 🌱 I’m currently learning **Linux**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about ☕**Java**
 
 - 📫 How to reach me **https://www.linkedin.com/in/pranav-suryawanshi-50157a1a1**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
