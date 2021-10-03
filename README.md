@@ -9,7 +9,7 @@
 
 - 👨‍🎓 I'm pursuing my BE degree at Pimpri Chinchwad College Of Engineering, Pune
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning 🐧**Linux**
 
 - 💬 Ask me about ☕**Java**
 
