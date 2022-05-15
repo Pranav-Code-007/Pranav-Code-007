@@ -1,7 +1,6 @@
 <div align="center">
 <img width="70%" height = "340px" src="https://www.7pace.com/wp-content/uploads/2020/08/cover-dev-productivity.png" alt="cover" />
 </div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
@@ -20,7 +19,7 @@
 
 - 👨‍🎓 I'm pursuing my BE degree at Pimpri Chinchwad College Of Engineering, Pune
 
-- 🌱 I’m currently learning 🐧**Linux**  , **Docker**  and  **Kubernetes**
+- 🌱 I’m currently learning 🐧**Linux**  , 🐳 **Docker**  and <br>☸ **Kubernetes**
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
