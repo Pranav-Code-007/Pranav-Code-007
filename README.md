@@ -32,7 +32,7 @@
 <a href= https://github.com/Pranav-Code-007?tab=repositories&q=&type=&language=java&sort= > <img height = 50px width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/Pranav-Code-007?tab=repositories&q=&type=&language=oracle&sort= > <img height = 50px width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg'> </a>
 <a href= https://github.com/Pranav-Code-007?tab=repositories&q=&type=&language=linux&sort= > <img height = 50px width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="32px"/> 
+<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height = 50px width ='50px/> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height = 50px width ='50px' /> 
 <a href= https://github.com/Pranav-Code-007?tab=repositories&q=&type=&language=git&sort= > <img height = 50px width ='50px'' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/Pranav-Code-007?tab=repositories&q=&type=&language=github&sort= > <img height = 50px width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
