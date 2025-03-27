@@ -1,78 +1,73 @@
-<div align="center">
-<img width="70%" height = "340px" src="https://www.7pace.com/wp-content/uploads/2020/08/cover-dev-productivity.png" alt="cover" />
-</div>
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="70px"> </h1>
-<p align='center'>
+# Hello, I'm Pranav Suryawanshi! 👋 🚀
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Pranav-Code-007.Pranav-Code-007)
+## 🚀 About Me  
 
-</p>
-<div size='20px'> Hi! My name is Pranav Suryawanshi. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+I am a **DevOps Engineer** with **2.8 years of experience**, currently transitioning into the field of **AI/ML**. I have a strong foundation in **cloud infrastructure, automation, and DevOps** while actively working on **AI/ML projects, RAG, and Large Language Models (LLMs)**.  
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" height = "150px" ></h2>
+- 🎓 Graduated in **2022** from **Pimpri Chinchwad College Of Engineering, Pune**  
+- 💼 **Current Role:** DevOps Engineer at a private organization  
+- 🔄 **Transitioning into AI/ML** – LLMs, RAG, and Machine Learning  
+- 🏗 **Built POCs** using **LangChain, Ollama, Llama2, ChromaDB, and Nomic Embed Text Model**  
+- 🛠 **Experienced in:** Cloud (AWS), CI/CD (Jenkins, GitHub Actions), Infrastructure as Code (Terraform), **ML Libraries (Scikit-learn, Pandas, NumPy, SciPy)**, Containerization (Docker, Kubernetes)  
+- 🖥️ **Web Frameworks:** **Spring Boot, Flask, Angular**  
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+---
 
+## 🛠 Tech Stack & Tools  
 
-- 👨‍💻 I’m interested in **backend development**
+### **Programming & Scripting**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 👨‍🎓 I've completed my BE degree at Pimpri Chinchwad College Of Engineering, Pune
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-- 🌱 I’m currently learning 🐧**Linux**  , 🐳 **Docker**  and <br>☸ **Kubernetes**
+### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles 
+### **AI/ML & LLMs**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ml&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF4500?style=for-the-badge&logo=ai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge&logo=chain&logoColor=white)
+![Llama2](https://img.shields.io/badge/Llama2-0099FF?style=for-the-badge&logo=llm&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1A202C?style=for-the-badge&logo=database&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-- 💬 Ask me about ☕**Java**
+---
 
-<h2> Experience </h2>
+## 📈 GitHub Stats  
 
- I was SWE intern at **Red Hat** for 6 months
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 32px width = 32px > </h2>
-<p>
-<a href= https://github.com/Pranav-Code-007?tab=repositories&q=&type=&language=python&sort= > <img  height = 50px width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Pranav-Code-007?tab=repositories&q=&type=&language=c&sort= > <img height = 50px width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Pranav-Code-007?tab=repositories&q=&type=&language=cpp&sort= > <img height = 50px width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Pranav-Code-007?tab=repositories&q=&type=&language=java&sort= > <img height = 50px width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- </p>
- <p>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50px" height="50px"/> </a>
-<a href="https://spring.io/projects/spring-boot"> <img src="https://user-images.githubusercontent.com/65610577/208256398-55f079f6-3218-4644-b721-696ca2d3bdbd.jpg" alt="mysql" width="50px" height="50px"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height = 50px width ='50px/> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height = 50px width ='50px' /> 
-</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50px" height="50px"/> </a> 
-<a href="https://www.oracle.com/in/" > <img height = 50px width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg'> </a>
-<a href="https://www.linux.org/"> <img height = 50px width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-</p>
-<p>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50px" height="50px"/> </a>
-<a href="https://git-scm.com/" > <img height = 50px width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href="https://github.com"> <img height = 50px width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
- </p>
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav-Code-007&count_private=true&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Code-007&layout=compact&theme=tokyonight)  
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> </a> <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" alt="github actions" width="50" height="50"/> </a> </p>
+---
 
+## 🤝 Connect With Me  
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height = 40px width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/pranav-suryawanshi-50157a1a1'> <img height = 50px width ='50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href="https://www.hackerrank.com/pranavsuryawans1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranavsuryawans1" height = 50px width ='50px' /></a>
-<a href = 'https://www.github.com/Pranav-Code-007'> <img height = 50px width ='50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/pranav-suryawanshi-50157a1a1)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav-Code-007)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pranavsuryawans1)  
 
+---
 
+## 🤖 Fun Fact  
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' height = 40px width='32px'> </h2>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pranav-Code-007&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Code-007&theme=default" />
-</a>
+---
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' height = 32px width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-
-<br>
+### 🎯 Looking for opportunities in **AI/ML**! Let’s connect and build something amazing together! 🚀
